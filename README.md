@@ -67,6 +67,3 @@
                     console.log(somar(5, 7))
                     - A gente "invoca" a função, cujo nome é somar, e passamos os argumentos 5 e 7. 
                     - Agora sim, caso você aperte o play, será exibido no seu console o resultado 12, que é resultado da soma entre 5 e 7. Legal, né?!!
-
-
-
